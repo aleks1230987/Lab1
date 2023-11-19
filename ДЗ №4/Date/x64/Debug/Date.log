@@ -1,0 +1,3 @@
+﻿  Date.cpp
+C:\Users\user\Desktop\Date\Date\Date.cpp(52): warning C4715: Date::DaysInMonth: значение возвращается не при всех путях выполнения
+  Date.vcxproj -> C:\Users\user\Desktop\Date\x64\Debug\Date.exe
