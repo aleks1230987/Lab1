@@ -1,0 +1,3 @@
+﻿  Date.cpp
+C:\Users\staro\OneDrive\Рабочий стол\ДЗ №4\Date\Date.cpp(62): warning C4715: Date::DaysInMonth: значение возвращается не при всех путях выполнения
+  Date.vcxproj -> C:\Users\staro\OneDrive\Рабочий стол\ДЗ №4\x64\Debug\Date.exe
